@@ -30,7 +30,7 @@ require __DIR__ . '/css.html';
         </tr>
 
         <?php
-        $libriQuery = "SELECT * FROM libri";  // Corretto la query SQL
+        $libriQuery = "SELECT * FROM libri"; 
         $result = $database->query($libriQuery);
 
         if ($result->num_rows > 0) {
