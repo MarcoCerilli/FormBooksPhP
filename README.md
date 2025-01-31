@@ -5,7 +5,6 @@
 Connessione al Database:
 In questa sezione viene effettuata la connessione al database MySQL utilizzando le credenziali specificate.
 Se la connessione fallisce, viene mostrato un messaggio di errore e il programma termina.
-Viene anche impostato il charset utf8mb4 per evitare problemi di codifica dei caratteri.
 
 
 Gestione del Form di Aggiunta e Rimozione Libri:
